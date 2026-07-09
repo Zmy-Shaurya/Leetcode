@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0217-contains-duplicate) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
 | ------- |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0217-contains-duplicate) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->

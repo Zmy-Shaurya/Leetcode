@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0088-merge-sorted-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0217-contains-duplicate) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
@@ -59,4 +60,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->

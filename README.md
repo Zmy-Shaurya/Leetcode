@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0217-contains-duplicate) |
+| [1331-rank-transform-of-an-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
@@ -25,12 +26,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Graph Theory
 |  |
 | ------- |

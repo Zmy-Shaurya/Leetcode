@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0217-contains-duplicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## String
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0189-rotate-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |

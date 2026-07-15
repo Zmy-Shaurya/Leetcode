@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Zmy-Shaurya/Leetcode/tree/master/0189-rotate-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Zmy-Shaurya/Leetcode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Zmy-Shaurya/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
